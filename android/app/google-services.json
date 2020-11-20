@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "99848894460",
+    "firebase_url": "https://acerta-app.firebaseio.com",
+    "project_id": "acerta-app",
+    "storage_bucket": "acerta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99848894460:android:c2b2f5357f4eaee215a479",
+        "android_client_info": {
+          "package_name": "acerta.nicolas.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99848894460-a38jnuu8avr2ek17buaurs2p0obhid0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUK9SCxBscVOCygXficoLYna1_BsoX90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99848894460-a38jnuu8avr2ek17buaurs2p0obhid0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99848894460:android:9ebbb99b716baff315a479",
+        "android_client_info": {
+          "package_name": "be.acerta.app.tst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99848894460-a38jnuu8avr2ek17buaurs2p0obhid0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUK9SCxBscVOCygXficoLYna1_BsoX90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99848894460-a38jnuu8avr2ek17buaurs2p0obhid0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
